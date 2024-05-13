@@ -9,6 +9,7 @@ This software is a simple contract written in Solidity, a programming language f
 Getting Started
 
 Executing Program
+
 To run this project, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file:
@@ -38,14 +39,17 @@ contract MyContract {
         return _y + 100;
 
     }
-}
+
+
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile MyContract.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyConstract" contract from the dropdown menu, and then click on the "Deploy" button.
 
 Authors
+
 NTCIAN ARLYN
 [Discord: @Arlyn] ( https://discordapp.com/users/Arlyn#7306)
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
