@@ -16,6 +16,7 @@ pragma solidity ^0.8.0;
 contract MyContract {
     uint public totalValue;
 
+    
     function sellersetValue(uint _value) pure  external {
         //require statement of seller
         require(_value != 4, "the is sum");
