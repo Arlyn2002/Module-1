@@ -1,10 +1,13 @@
 MyContract
+
 The "MyContract" project in Solidity exemplifies the programming language's key syntax and functionality. The purpose of this project is to provide a functions error and exploring solidty smart contracts
 
 Description
+
 This software is a simple contract written in Solidity, a programming language for generating smart contracts for the Ethereum network. A single function in the contract returns the string "MyContract"
 
 Getting Started
+
 Executing Program
 To run this project, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
